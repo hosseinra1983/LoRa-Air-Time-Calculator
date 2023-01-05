@@ -1,4 +1,5 @@
 # LoRa-Air-Time-Calculator
+This VI is written in LabVIEW 2021.
 
 A Calculator that calculate the time on air of LoRa packet. Based on the formula in Semtech's
 datasheet.
